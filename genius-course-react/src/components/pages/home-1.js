@@ -31,12 +31,12 @@ class HomeOne extends React.Component {
                 
                 
                 <BestCourse GrayBg={true} />
-                <CourseTeacher />
-                <BestProduct />
+                
+               
                 <FAQ />
-                <CourseCategory />
+                
                 <ContactArea />
-                <Footer />
+                
             </div>
         )
     }

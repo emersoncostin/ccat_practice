@@ -112,10 +112,9 @@ class WhyChooseUs extends React.Component {
                   <i className="text-gradiant flaticon-maths-class-materials-cross-of-a-pencil-and-a-ruler" />
                 </div>
                 <div className="service-text">
-                  <h3 className="bold-font">The Power Of Education.</h3>
+                  <h3 className="bold-font">Memorize the questions.</h3>
                   <p>
-                    Lorem ipsum dolor sit amet consectuerer adipiscing elit set
-                    diam nonnumynibh euismod tincidun laoreet.
+                      For example if you are not a English native speaker use the test to memorize the harsh English questions and garantee your score.
                   </p>
                 </div>
               </div>
@@ -124,10 +123,9 @@ class WhyChooseUs extends React.Component {
                   <i className="text-gradiant flaticon-clipboard-with-pencil" />
                 </div>
                 <div className="service-text">
-                  <h3 className="bold-font">Best Online Education.</h3>
+                  <h3 className="bold-font">Know your Score after the test.</h3>
                   <p>
-                    Lorem ipsum dolor sit amet consectuerer adipiscing elit set
-                    diam nonnumynibh euismod tincidun laoreet.
+                    You will know your score RIGHT AFTER you finish your practice tests. Like that you will know when you are prepared and when your are not.
                   </p>
                 </div>
               </div>
@@ -136,49 +134,13 @@ class WhyChooseUs extends React.Component {
                   <i className="text-gradiant flaticon-list" />
                 </div>
                 <div className="service-text">
-                  <h3 className="bold-font">Education For All Student.</h3>
+                  <h3 className="bold-font">Pay with security.</h3>
                   <p>
-                    Lorem ipsum dolor sit amet consectuerer adipiscing elit set
-                    diam nonnumynibh euismod tincidun laoreet.
+                    We use Stripe and Paypal as secure payment gateways. You will provide your credit card information inside their platform, we do not have access to any of these data.
                   </p>
                 </div>
               </div>
-              <div className="service-text-icon">
-                <div className="service-icon float-left">
-                  <i className="text-gradiant flaticon-maths-class-materials-cross-of-a-pencil-and-a-ruler" />
-                </div>
-                <div className="service-text">
-                  <h3 className="bold-font">The Power Of Education.</h3>
-                  <p>
-                    Lorem ipsum dolor sit amet consectuerer adipiscing elit set
-                    diam nonnumynibh euismod tincidun laoreet.
-                  </p>
-                </div>
-              </div>
-              <div className="service-text-icon">
-                <div className="service-icon float-left">
-                  <i className="text-gradiant flaticon-clipboard-with-pencil" />
-                </div>
-                <div className="service-text">
-                  <h3 className="bold-font">Best Online Education.</h3>
-                  <p>
-                    Lorem ipsum dolor sit amet consectuerer adipiscing elit set
-                    diam nonnumynibh euismod tincidun laoreet.
-                  </p>
-                </div>
-              </div>
-              <div className="service-text-icon">
-                <div className="service-icon float-left">
-                  <i className="text-gradiant flaticon-list" />
-                </div>
-                <div className="service-text">
-                  <h3 className="bold-font">Education For All Student.</h3>
-                  <p>
-                    Lorem ipsum dolor sit amet consectuerer adipiscing elit set
-                    diam nonnumynibh euismod tincidun laoreet.
-                  </p>
-                </div>
-              </div>
+
             </OwlCarousel>
 
             <div className="testimonial-slide">
@@ -202,7 +164,7 @@ class WhyChooseUs extends React.Component {
                   </p>
                   <div className="student-name-designation">
                     <span className="st-name bold-font">Robertho Garcia </span>
-                    <span className="st-designation">Graphic Designer</span>
+                    <span className="st-designation">L1 Custommer Support Agent</span>
                   </div>
                 </div>
                 <div className="student-qoute ">
@@ -215,35 +177,10 @@ class WhyChooseUs extends React.Component {
                   </p>
                   <div className="student-name-designation">
                     <span className="st-name bold-font">Robertho Garcia </span>
-                    <span className="st-designation">Graphic Designer</span>
+                    <span className="st-designation">QA Manual Tester</span>
                   </div>
                 </div>
-                <div className="student-qoute ">
-                  <p>
-                    “This was our first time lorem ipsum and we{" "}
-                    <b> were very pleased with the whole experience</b>. Your
-                    price was lower than other companies. Our experience was
-                    good from start to finish, so we’ll be back in the future
-                    lorem ipsum diamet.”
-                  </p>
-                  <div className="student-name-designation">
-                    <span className="st-name bold-font">Robertho Garcia </span>
-                    <span className="st-designation">Graphic Designer</span>
-                  </div>
-                </div>
-                <div className="student-qoute">
-                  <p>
-                    “This was our first time lorem ipsum and we{" "}
-                    <b> were very pleased with the whole experience</b>. Your
-                    price was lower than other companies. Our experience was
-                    good from start to finish, so we’ll be back in the future
-                    lorem ipsum diamet.”
-                  </p>
-                  <div className="student-name-designation">
-                    <span className="st-name bold-font">Robertho Garcia </span>
-                    <span className="st-designation">Graphic Designer</span>
-                  </div>
-                </div>
+                
               </OwlCarousel>
             </div>
           </div>

@@ -28,9 +28,7 @@ class Header extends React.Component {
                 <div className="select-lang">
                   <select>
                     <option value={9}>ENG</option>
-                    <option value={10}>BAN</option>
-                    <option value={11}>ARB</option>
-                    <option value={12}>FRN</option>
+
                   </select>
                 </div>
                 <div className="cart-search float-right ul-li">
